@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "duckske.aternos.me",
-    "port": 59663,
+    "port": 25565,
     "version": "1.21.9",
     "try-creative": false
   },
